@@ -1,0 +1,32 @@
+{
+  "name": "rest-test",
+  "version": "1.0.0",
+  "description": "REST API unit test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngangavic/node-tests.git"
+  },
+  "keywords": [
+    "Unit",
+    "test",
+    "Jest",
+    "REST",
+    "API"
+  ],
+  "author": "ngangavic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngangavic/node-tests/issues"
+  },
+  "homepage": "https://github.com/ngangavic/node-tests#readme",
+  "dependencies": {
+    "axios": "^1.6.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  }
+}
