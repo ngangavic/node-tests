@@ -1,7 +1,7 @@
 {
   "name": "rest-test",
   "version": "1.0.0",
-  "description": "REST API unit test",
+  "description": "REST API unit test with jest, supertest and cross-env",
   "main": "index.js",
   "scripts": {
     "test": "cross-env NODE_ENV=test jest --testTimeout=5000",
